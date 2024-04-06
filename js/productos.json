@@ -1,0 +1,780 @@
+[
+    {
+        "id": "sandesh",
+        "titulo": "sandesh",
+        "imagen": "./img/sandesh.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 69
+    },
+    {
+        "id": "Timur powder 100g",
+        "titulo": "Timur powder 100g",
+        "imagen": "./img/Masala/1.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 4
+    },{
+        "id": "Timur whole 200g",
+        "titulo": "Timur whole 200g",
+        "imagen": "./img/Masala/2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 7
+    },{
+        "id": "Meat masala",
+        "titulo": "Meat masala",
+        "imagen": "./img/Masala/3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "Chatpate masala",
+        "titulo": "Chatpate masala",
+        "imagen": "./img/Masala/4.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "Pani puri masala",
+        "titulo": "Pani puri masala",
+        "imagen": "./img/Masala/5.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "Chicken masala",
+        "titulo": "Chicken masala",
+        "imagen": "./img/Masala/6.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "Mix saatu",
+        "titulo": "Mix saatu",
+        "imagen": "./img/Masala/7.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 4.5
+    },{
+        "id": "Tandoori masala",
+        "titulo": "Tandoori masala",
+        "imagen": "./img/Masala/8.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 6.5
+    },{
+        "id": "Black pepper whole",
+        "titulo": "Black pepper whole",
+        "imagen": "./img/Masala/9.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },
+    {
+        "id": "Black pepper coarse",
+        "titulo": "Black pepper coarse",
+        "imagen": "./img/Masala/11.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "Black pepper powder",
+        "titulo": "Black pepper powder",
+        "imagen": "./img/Masala/12.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "Black salt powder",
+        "titulo": "Black salt powder",
+        "imagen": "./img/Masala/13.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 1.5
+    },{
+        "id": "Coriander seed",
+        "titulo": "Coriander seed",
+        "imagen": "./img/Masala/14.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 5.5
+    },{
+        "id": "Asli",
+        "titulo": "Asli",
+        "imagen": "./img/Masala/15.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 1
+    },{
+        "id": "Green cardamom",
+        "titulo": "Green cardamom",
+        "imagen": "./img/Masala/16.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 3.5
+    },{
+        "id": "Fennel seeds",
+        "titulo": "Fennel seeds",
+        "imagen": "./img/Masala/17.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "Chilli powder extra hot",
+        "titulo": "Chilli powder extra hot",
+        "imagen": "./img/Masala/18.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2
+    },{
+        "id": "32 masala",
+        "titulo": "32 masala",
+        "imagen": "./img/Masala/19.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 4.5
+    },{
+        "id": "Suger candy",
+        "titulo": "Suger candy",
+        "imagen": "./img/Masala/20.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 1
+    },{
+        "id": "Mo mo masala",
+        "titulo": "Mo mo masala",
+        "imagen": "./img/Masala/21.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Masala"
+        },
+        "precio": 2.5
+    },
+   {
+        "id": "Soya chunks 500g",
+        "titulo": "Soya chunks 500g",
+        "imagen": "./img/Dry things/1.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 4
+    }, {
+        "id": "Soya chunks 250g",
+        "titulo": "Soya chunks 250g",
+        "imagen": "./img/Dry things/2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 2.5
+    }, {
+        "id": "Dried buffalo meat",
+        "titulo": "Dried buffalo meat",
+        "imagen": "./img/Dry things/3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 15
+    }, {
+        "id": "Millet whole",
+        "titulo": "Millet whole",
+        "imagen": "./img/Dry things/4.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 3.5
+    }, {
+        "id": "Gundruk",
+        "titulo": "Gundruk",
+        "imagen": "./img/Dry things/5.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 5
+    }, {
+        "id": "Green sultana",
+        "titulo": "Green sultana",
+        "imagen": "./img/Dry things/6.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 3.5
+    }, {
+        "id": "Sinki",
+        "titulo": "Sinki",
+        "imagen": "./img/Dry things/7.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 4
+    }, {
+        "id": "Local maseura",
+        "titulo": "Local maseura",
+        "imagen": "./img/Dry things/8.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Dry things"
+        },
+        "precio": 2.5
+    },{
+        "id": "Veg wai wai",
+        "titulo": "Veg wai wai",
+        "imagen": "./img/Noodles and snacks/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 0.5
+    },{
+        "id": "Rara",
+        "titulo": "Rara",
+        "imagen": "./img/Noodles and snacks/2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 0.60
+    }, {
+        "id": "Quick wai wai",
+        "titulo": "Quick wai wai",
+        "imagen": "./img/Noodles and snacks/3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 0.5
+    }, 
+    {
+        "id": "Pressure cooker 2L",
+        "titulo": "Pressure cooker 2L",
+        "imagen": "./img/Pot’s/1.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Pot’s"
+        },
+        "precio": 34
+    },  {
+        "id": "Pressure cooker 3L",
+        "titulo": "Pressure cooker 3L",
+        "imagen": "./img/Pot’s/2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Pot’s"
+        },
+        "precio": 42
+    },{
+        "id": "Mo mo pot",
+        "titulo": "Mo mo pot",
+        "imagen": "./img/Pot’s/3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Pot’s"
+        },
+        "precio": 34
+    },{
+        "id": "current 2x spicy",
+        "titulo": "current 2x spicy",
+        "imagen": "./img/Noodles and snacks/4.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 1.50
+    }, {
+        "id": "Ram pam",
+        "titulo": "Ram pam",
+        "imagen": "./img/Noodles and snacks/5.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 0.50
+    }, {
+        "id": "Wai wai",
+        "titulo": "Wai wai",
+        "imagen": "./img/Noodles and snacks/6.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 0.50
+    }, {
+        "id": "Far far long yellow pipe",
+        "titulo": "Far far long yellow pipe",
+        "imagen": "./img/Noodles and snacks/7.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 2
+    }, {
+        "id": "Wai wai box",
+        "titulo": "Wai wai box",
+        "imagen": "./img/Noodles and snacks/8.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 14
+    }, {
+        "id": "Quick wai wai box",
+        "titulo": "Quick wai wai box",
+        "imagen": "./img/Noodles and snacks/9.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 14
+    }, {
+        "id": "Veg wai wai box",
+        "titulo": "Veg wai wai box",
+        "imagen": "./img/Noodles and snacks/10.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 14
+    }, {
+        "id": "Ram pam box",
+        "titulo": "Ram pam box",
+        "imagen": "./img/Noodles and snacks/11.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 14
+    }, {
+        "id": "Rara box",
+        "titulo": "Rara box",
+        "imagen": "./img/Noodles and snacks/12.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 16
+    }, {
+        "id": "Current patato sticks",
+        "titulo": "Current patato sticks",
+        "imagen": "./img/Noodles and snacks/13.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 1.5
+    }, {
+        "id": "Current spicy cheese balls",
+        "titulo": "Current spicy cheese balls",
+        "imagen": "./img/Noodles and snacks/14.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 1.5
+    }, {
+        "id": "Current hot lemon sticks",
+        "titulo": "Current hot lemon sticks",
+        "imagen": "./img/Noodles and snacks/15.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Noodles and snacks"
+        },
+        "precio": 1.5
+    }, {
+        "id": "Hot cherry pepper and radish",
+        "titulo": "Hot cherry pepper and radish",
+        "imagen": "./img/Achar and mada/1.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Dalla lime pickle",
+        "titulo": "Dalla lime pickle",
+        "imagen": "./img/Achar and mada/2.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Red chilli, timmur",
+        "titulo": "Red chilli, timmur",
+        "imagen": "./img/Achar and mada/3.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Achar and mada"
+        },
+        "precio": 7
+    },
+    {
+        "id": "mixed pickle",
+        "titulo": "mixed pickle",
+        "imagen": "./img/Achar and mada/4.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Lapsi pickle",
+        "titulo": "Lapsi pickle",
+        "imagen": "./img/Achar and mada/5.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "Achar and mada"
+                },
+        "precio": 6
+    },
+    {
+        "id": "Sweet lapsi pickle",
+        "titulo": "Sweet lapsi pickle",
+        "imagen": "./img/Achar and mada/6.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Hot cherry pepper and bamboo shoots",
+        "titulo": "Hot cherry pepper and bamboo shoots",
+        "imagen": "./img/Achar and mada/7.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Hot mango pickle",
+        "titulo": "Hot mango pickle",
+        "imagen": "./img/Achar and mada/8.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Fenugreek pickle",
+        "titulo": "Fenugreek pickle",
+        "imagen": "./img/Achar and mada/9.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Bitter gourd pickle",
+        "titulo": "Bitter gourd pickle",
+        "imagen": "./img/Achar and mada/10.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 6
+    },
+    {
+        "id": "Nepali bamboo shoots",
+        "titulo": "Nepali bamboo shoots",
+        "imagen": "./img/Achar and mada/11.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 7
+    },
+    {
+        "id": "Rangilay chini candy",
+        "titulo": "Rangilay chini candy",
+        "imagen": "./img/Achar and mada/12.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "Hog plum candy",
+        "titulo": "Hog plum candy",
+        "imagen": "./img/Achar and mada/13.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Achar and mada"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "Tamarind candy",
+        "titulo": "Tamarind candy",
+        "imagen": "./img/Achar and mada/14.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Achar and mada"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "Bechi patta",
+        "titulo": "Bechi patta",
+        "imagen": "./img/Achar and mada/15.jpg",
+        "categoria": {
+            "nombre": "Rice and bens",
+            "id": "Achar and mada"
+        },
+        "precio": 1.5
+    },
+    {
+        "id": "Seto kagati",
+        "titulo": "Seto kagati",
+        "imagen": "./img/Achar and mada/16.jpg",
+        "categoria": {
+            "nombre": "Rice and bens",
+            "id": "Achar and mada"
+        },
+        "precio": 1.5
+
+    },
+    {
+        "id": "Marsi red rice",
+        "titulo": "Marsi red rice",
+        "imagen": "./img/Rice and beans/1.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 5
+    },
+    {
+        "id": "Black eye beans",
+        "titulo": "Black eye beans",
+        "imagen": "./img/Rice and beans/2.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 4.5
+    }, {
+        "id": "Massor dal",
+        "titulo": "Massor dal",
+        "imagen": "./img/Rice and beans/3.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 3
+    }, {
+        "id": "Kala chana",
+        "titulo": "Kala chana",
+        "imagen": "./img/Rice and beans/4.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 2.5
+    }, {
+        "id": "Urid chilka",
+        "titulo": "Urid chilka ",
+        "imagen": "./img/Rice and beans/5.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 4.5
+    }, {
+        "id": "Puffed rice",
+        "titulo": "Puffed rice",
+        "imagen": "./img/Rice and beans/6.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 2
+    }, {
+        "id": "White beaten rice",
+        "titulo": "White beaten rice",
+        "imagen": "./img/Rice and beans/7.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 4.5
+    }, {
+        "id": "Selroti flour",
+        "titulo": "Selroti flour",
+        "imagen": "./img/Rice and beans/8.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 3.5
+    }, 
+     {
+        "id": "Buck wheat flour",
+        "titulo": "Buck wheat flour",
+        "imagen": "./img/Rice and beans/10.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 5
+    }, {
+        "id": "Red beaten rice",
+        "titulo": "Red beaten rice",
+        "imagen": "./img/Rice and beans/11.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 4.5
+    }, {
+        "id": "Anadi rice",
+        "titulo": "Anadi rice",
+        "imagen": "./img/Rice and beans/12.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 6.5
+    }, {
+        "id": "Jumla beans",
+        "titulo": "Jumla beans",
+        "imagen": "./img/Rice and beans/13.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 6
+    }, {
+        "id": "Beans",
+        "titulo": "Beans",
+        "imagen": "./img/Rice and beans/14.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 2.5
+    }, {
+        "id": "Basmati rice",
+        "titulo": "Basmati rice",
+        "imagen": "./img/Rice and beans/15.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 16
+    }, {
+        "id": "Mixed lentils",
+        "titulo": "Mixed lentils",
+        "imagen": "./img/Rice and beans/16.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 4.5
+    }, 
+    {
+        "id": "Green peas",
+        "titulo": "Green peas",
+        "imagen": "./img/Rice and beans/17.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Rice and bens"
+        },
+        "precio": 3
+    },
+    {
+        "id": "Limon concentrate",
+        "titulo": "Limon concentrate",
+        "imagen": "./img/Liquid and tea/1.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Liquid and tea"
+        },
+        "precio": 4
+    },
+     {
+        "id": "Mustard oil",
+        "titulo": "Mustard oil",
+        "imagen": "./img/Liquid and tea/2.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Liquid and tea"
+        },
+        "precio": 4.99
+    },
+    {
+        "id": "Muna tea",
+        "titulo": "Muna tea",
+        "imagen": "./img/Liquid and tea/3.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Liquid and tea"
+        },
+        "precio": 3.5
+    },{
+        "id": "Tokla gold tea",
+        "titulo": "Tokla gold tea",
+        "imagen": "./img/Liquid and tea/4.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "Liquid and tea"
+        },
+        "precio": 4.5
+    }
+   
+    
+]
